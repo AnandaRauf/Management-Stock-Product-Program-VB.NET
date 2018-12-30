@@ -16,6 +16,6 @@ How To Build :
 - Choose Extension .sln / .vbproj
 - Click SQL Server at Visual Studio left corner 
 - Import database Mysql Server 2014
-- Copy Datasource Database and Paste to module1 src datasource,InputBarang,Kasir,Form Login / Login .
+- Copy Datasource Database and Paste to module1 src datasource,InputBarang,Form Login / Login .
 - Save your Project Ctrl + S
 - Run your Project Press F5 / Click Build Menu.

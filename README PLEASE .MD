@@ -19,4 +19,3 @@ How To Build :
 - Copy Datasource Database and Paste to module1 src datasource,InputBarang,Kasir,Form Login / Login .
 - Save your Project Ctrl + S
 - Run your Project Press F5 / Click Build Menu.
-- 
